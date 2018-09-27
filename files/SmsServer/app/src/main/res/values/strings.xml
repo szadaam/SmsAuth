@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmsServer</string>
+    <string name="permission_not_granted">PERMISSION NOT GRANTED!</string>
+    <string name="start">Start</string>
+</resources>
